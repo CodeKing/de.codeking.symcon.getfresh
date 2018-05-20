@@ -1,0 +1,13 @@
+{
+  "id": "{52FFDAFF-ADCC-40A4-B654-380D26B38014}",
+  "name": "GetFresh",
+  "type": 3,
+  "vendor": "Fresh Energy GmbH",
+  "aliases": [
+    "GetFresh Smartmeter"
+  ],
+  "parentRequirements": [],
+  "childRequirements": [],
+  "implemented": [],
+  "prefix": "GetFresh"
+}

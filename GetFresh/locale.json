@@ -1,0 +1,26 @@
+{
+  "translations": {
+    "de": {
+      "___ [ Login Data ] _____________________________________________________________________________________": "___ [ Zugangsdaten ] ________________________________________________________________________________________",
+      "___ [ Module Settings ] ________________________________________________________________________________": "___ [ Modul Einstellungen ] _________________________________________________________________________________",
+      "Please enter your login details of your account.": "Bitte hinterlege die Zugangsdaten von deinem Account.",
+      "E-Mail Address": "E-Mail Adresse",
+      "Password": "Passwort",
+      "Error: Your email address or password of your account is invalid!": "Fehler: Die E-Mail Adresse oder das Passwort von deinem Account ist ungültig!",
+      "Login information are valid!": "Die Zugangsdaten sind gültig!",
+      "Get Data": "Daten abrufen",
+      "Get Tariff": "Tarifdaten abrufen",
+      "Seconds": "Sekunden",
+      "Base Price": "Grundpreis",
+      "Price per kWh": "Preis pro kWh",
+      "Meter Reading": "Zählerstand",
+      "Power": "Aktueller Verbrauch",
+      "Power L1": "Aktueller Verbrauch L1",
+      "Power L2": "Aktueller Verbrauch L2",
+      "Power L3": "Aktueller Verbrauch L3",
+      "Provider": "Stromanbieter",
+      "___ [ Logging ] ________________________________________________________________________________________": "___ [ Debug Log ] _____________________________________________________________________________________________",
+      "enable logging": "Log Meldungen aktivieren"
+    }
+  }
+}
